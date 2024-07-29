@@ -1,4 +1,8 @@
 
+## Task Demo
+- [Demo Video Link](https://drive.google.com/file/d/1xxk9qvhnhx2u4BjoBa963DrcqexF-jFK/view?usp=sharing)
+- [Deployed Link](https://kriscent-task-private.vercel.app/)
+
 ## Installation
 
 To install dependencies for this project run
