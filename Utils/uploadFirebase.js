@@ -5,7 +5,7 @@ var admin = require("firebase-admin");
 
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
-    storageBucket: "gs://fin-manager-a27a1.appspot.com"
+    storageBucket: "//NAME_OF_YOUR_STORAGE_BUCKET_COMES_HERE"
 });
 const bucket = admin.storage().bucket();
 
